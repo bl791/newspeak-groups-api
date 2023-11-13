@@ -1,1 +1,5 @@
-Our code is available on Hugging Face now https://huggingface.co/spaces/bl791/ns-api
+Our code is available on Hugging Face now.
+
+We have found it too hard to maintain two Git repositories in sync, so we have decided to stick with the one that hosts the app. But don't worry, you can still clone, contribute, and view the code!
+
+https://huggingface.co/spaces/bl791/ns-api
